@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - Ashwini<br/>
-  <a href="https://mishra007.netlify.app/" target="_blank">PRABHAT | AWM</a>
+  <a href="https://mishra007.netlify.app/" target="_blank">ASHWINI | MISHRA</a>
 </h2>
 
 
